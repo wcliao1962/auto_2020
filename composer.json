@@ -1,0 +1,11 @@
+{
+    "name": "ncut/auto",
+    "description": "autoload example",
+    "authors": [
+        {
+            "name": "liao wen chung",
+            "email": "wcliao1962@gmail.com"
+        }
+    ],
+    "require": {}
+}
